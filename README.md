@@ -66,7 +66,7 @@ import com.radzdev.radzupdater.RadzUpdater
 ```
 
 ## Screenshots  
-<img src="https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/screenshots.png?raw=true" width="300">  
+<img src="https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/screenshots.png?raw=true">  
 
 
 
