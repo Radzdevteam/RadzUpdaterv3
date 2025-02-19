@@ -1,0 +1,52 @@
+# AppUpdater
+
+## Android Library
+
+Android Library that checks for updates on Google Play, GitHub, Amazon, F-Droid, or your own server.
+
+## How to Include
+
+### Add the repository to your project `settings.gradle`:
+
+```gradle
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url = uri("https://jitpack.io") }
+    }
+}
+```
+
+### Add the library to your module `build.gradle`:
+
+```gradle
+dependencies {
+    implementation("com.github.Radzdevteam:artifact:1.2")
+}
+```
+
+## Usage
+
+### In an Activity
+By default, the basic usage will show a default dialog when a new version is found on the Play Store (otherwise, nothing will be shown).
+
+#### Example:
+
+```kotlin
+val appUpdater = RadzUpdater(this, "https://raw.githubusercontent.com/Radzdevteam/test/refs/heads/main/RadzUpdaterv3.json")
+appUpdater.start()
+```
+
+### Required Imports:
+
+```kotlin
+import com.radzdev.radzupdater.RadzUpdater
+```
+
+## License
+
+```
+Copyright 2015 Mhuradz Alegre
+```
