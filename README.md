@@ -1,3 +1,6 @@
+Here’s your updated README with fixed typos and properly formatted screenshot links:  
+
+```markdown
 # RadzUpdater [![](https://jitpack.io/v/Radzdevteam/RadzUpdaterv3.svg)](https://jitpack.io/#Radzdevteam/RadzUpdaterv3)
 
 ## Android Library
@@ -46,7 +49,7 @@ import com.radzdev.radzupdater.RadzUpdater
 ```
 ### JSON FORMAT:
 
-```kotlin
+```json
 {
   "latestVersion": "1.2.0",
   "url": "https://github.com/Radzdevteam/test/raw/refs/heads/main/test.apk",
@@ -62,9 +65,16 @@ import com.radzdev.radzupdater.RadzUpdater
 }
 ```
 
-https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/DOWNLOADING.png?raw=true
-https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/INSTALLING.png?raw=true
-https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/UPDATE%20DETECTED.png?raw=true
+## Screenshots  
+
+### Downloading  
+![Downloading](https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/DOWNLOADING.png?raw=true)  
+
+### Installing  
+![Installing](https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/INSTALLING.png?raw=true)  
+
+### Update Detected  
+![Update Detected](https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/UPDATE%20DETECTED.png?raw=true)  
 
 ## License
 
