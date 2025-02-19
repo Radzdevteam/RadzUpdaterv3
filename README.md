@@ -1,4 +1,4 @@
-# AppUpdater
+# RadzUpdater [![](https://jitpack.io/v/Radzdevteam/RadzUpdaterv3.svg)](https://jitpack.io/#Radzdevteam/RadzUpdaterv3)
 
 ## Android Library
 
@@ -23,7 +23,7 @@ dependencyResolutionManagement {
 
 ```gradle
 dependencies {
-    implementation("com.github.Radzdevteam:artifact:1.2")
+    implementation("com.github.Radzdevteam:RadzUpdaterv3:1.0")
 }
 ```
 
