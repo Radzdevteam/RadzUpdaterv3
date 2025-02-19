@@ -23,7 +23,7 @@ dependencyResolutionManagement {
 
 ```gradle
 dependencies {
-    implementation("com.github.Radzdevteam:RadzUpdaterv3:1.0")
+    implementation("com.github.Radzdevteam:RadzUpdaterv3:3.0")
 }
 ```
 
@@ -43,6 +43,23 @@ appUpdater.start()
 
 ```kotlin
 import com.radzdev.radzupdater.RadzUpdater
+```
+### JSON FORMAT:
+
+```kotlin
+{
+  "latestVersion": "1.2.0",
+  "url": "https://github.com/Radzdevteam/test/raw/refs/heads/main/test.apk",
+  "releaseNotes": [
+    "✓ Performance boosts",
+    "✓ Bug fixes & stability",
+    "✓ UI improvements",
+    "✓ Faster search",
+    "✓ Better file handling",
+    "✓ New notifications",
+    "✓ Various optimizations"
+  ]
+}
 ```
 
 ## License
