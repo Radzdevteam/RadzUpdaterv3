@@ -68,13 +68,14 @@ import com.radzdev.radzupdater.RadzUpdater
 ## Screenshots  
 
 ### Downloading  
-![Downloading](https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/DOWNLOADING.png?raw=true)  
+<img src="https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/DOWNLOADING.png?raw=true" width="300">  
 
 ### Installing  
-![Installing](https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/INSTALLING.png?raw=true)  
+<img src="https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/INSTALLING.png?raw=true" width="300">  
 
 ### Update Detected  
-![Update Detected](https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/UPDATE%20DETECTED.png?raw=true)  
+<img src="https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/UPDATE%20DETECTED.png?raw=true" width="300">  
+
 
 ## License
 
