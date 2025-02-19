@@ -62,6 +62,10 @@ import com.radzdev.radzupdater.RadzUpdater
 }
 ```
 
+https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/DOWNLOADING.png?raw=true
+https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/INSTALLING.png?raw=true
+https://github.com/Radzdevteam/RadzUpdaterv3/blob/master/Screenshots/UPDATE%20DETECTED.png?raw=true
+
 ## License
 
 ```
